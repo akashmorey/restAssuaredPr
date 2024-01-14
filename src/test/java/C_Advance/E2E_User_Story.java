@@ -1,4 +1,4 @@
-package advance;
+package C_Advance;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -9,7 +9,6 @@ import org.json.simple.parser.ParseException;
 import org.testng.annotations.Test;
 import utils.ReadInputs;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 

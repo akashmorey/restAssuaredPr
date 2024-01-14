@@ -1,4 +1,4 @@
-package API_practice;
+package A_Basic;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

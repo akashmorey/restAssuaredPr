@@ -1,4 +1,4 @@
-package standerd;
+package B_Standerd;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -8,8 +8,6 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 import org.testng.annotations.Test;
 
-import javax.sound.midi.Soundbank;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
